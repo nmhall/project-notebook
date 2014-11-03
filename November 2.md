@@ -15,6 +15,7 @@ our project.
 **What is the most pressing issue for your project? What design decision do
 you need to make, what implementation issue are you trying to solve, or how
 are you evaluating your design and implementation?**
+
 Right now, the biggest question that I have is how to design a language
 which is easily understood and easy to use in order to implement AI, but also
 provides enough flexibility and creativity for the user that they can make
@@ -26,12 +27,14 @@ play out in order to make a well-informed language design from the beginning.
 
 **What questions do you have for your critique partners? How can they best help
 you?**
+
 If you were new to a RTS-style game, what would you think as the fundamental choices
 or actions of a character that you would expect to see? What do you think of as
 "basic" to this kind of a game? Is there anything you would be very surprised to see?
 What kinds of interactions would annoy you?
 
 **How much time did you spend on the project this week? If you're working in a
+
 team, how did you share the labor?**
 As stated above, we were a little fuzzy about the time requirements, and so as
 of now I only worked betwwen 2 and 2.5 hours on the project this week. However,
