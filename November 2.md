@@ -41,5 +41,16 @@ of now I only worked betwwen 2 and 2.5 hours on the project this week. However,
 we plan to work a significant amount of time on Monday in order to off-set this.
 
 ## Post-critique summary
-
+_Note_: I forgot about this until I was writing my notebook entry for November 9, but figured this was still worth
+writing. The big take-aways from the critique were that the language design has to be very careful, and that we need
+to make sure we don't spend too much time on the game engine itself.
 ## Post-critique reflection
+The really big thing I had to think about after the critique was the balance of how much we would let the user say
+while designing their AI. Ari had a good point that we don't want our assumptions about what are good conditionals
+to use and smart actions to take to overly restrict a user's creativity. After all, the point of this game
+is to reward creativity as much as possible. At the same time, there are dual reasons for wanting to limit the
+syntax. One is that we simply can't make the language too big, or we won't be able to write code for it all.
+Since we have to implement the AI to perform all the actions the user writes, it rapidly becomes infeasible to give
+them too many choices. Second, limitation breeds creativity. This is where balance becomes very important. With too
+few choices, nobody is able to use their own cleverness and originality because the syntax doesn't give them the
+appropriate tools. With too many choices, you don't have to be clever or original in order to make something good.
