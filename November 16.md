@@ -2,13 +2,6 @@
 
 ## Description
 
-**TODO:** Fill in this part with information about your work this week:
-important design decisions, changes to previous decisions, open questions,
-exciting milestones, preliminary results, etc. Feel free to include images
-(e.g., a sketch of the design or a screenshot of a running program), links to
-code, and any other resources that you think will help clearly convey your
-design process.
-
 Due to some frustrating technical issues, I wasn't able to get a PC working and running Spring. So, my hopes of
 starting to design the actual IR and Spring AI implementation were unfulfilled. I planned in as much detail as
 I could how the IR would work and plug into the Spring system, but without having Spring there isn't much
