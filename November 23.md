@@ -29,6 +29,7 @@ way to communicate what you can and can't say is?
 
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the labor?**
+
 I spent 9-9.5 hours on the project this week. I focused my efforts on getting Grako to actually generate a parser,
 while Alex focused on getting the basics of getting a game with units working (and it works! Hooray! Spring is crazy,
 as it turns out).
