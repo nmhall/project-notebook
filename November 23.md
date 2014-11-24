@@ -9,7 +9,8 @@ the verification of IQ requirements and to interpret the JSON in the Spring AI f
 my time was spent trying to get my PC set up with Spring (successful) and Java and Eclipse (not so successful).
 Hopefully, that will eventually work so that I can actually work on AI stuff.
 An EBNF file and the generated Python parser are both in our documents, along with a skeleton AI file that a user
-would use to write their AIs. After user testing, I hope to figure out exactly what we should put into a helpful
+would use to write their AIs. Additionally, the file sampleOutput.txt shows what running the parser on a little
+baby AI definition looks like. After user testing, I hope to figure out exactly what we should put into a helpful
 user guide that explains in the simplest way what things a user can say and exactly how IQ works.
 
 ## Questions
